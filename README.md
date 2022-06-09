@@ -1,6 +1,8 @@
 # vms_subway
 
-Edit of vms_subway to work with both QB/ESX.
+Edit of vms_subway to work with both QB/ESX. 
+
+Original post: https://forum.cfx.re/t/free-esx-standalone-vms-subway
 
 You **MUST** **REMOVE** ```TriggerEvent('codem-blackhudv2:SetForceHide', true)``` and ```TriggerEvent('codem-blackhudv2:SetForceHide', false)``` for this to work unless you are using **Codem BlavckhudV2**.
 
